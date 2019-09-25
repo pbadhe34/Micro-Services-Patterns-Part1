@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: eureka-discovery-server
+Implementation-Version: 0.0.6
+Built-By: dell
+Implementation-Vendor-Id: com.sec.oath
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/spring-secur
+ ity-oauth-1/eureka-service-registry/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

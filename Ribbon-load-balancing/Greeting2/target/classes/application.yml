@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: greetings2
+
+server:
+  port: 9092
